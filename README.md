@@ -8,7 +8,7 @@
 First project to get back to electronic and learn something new along the way.
 This repository is for the documentation of my journey to a full functional analog synthesizer and will probably help other people too.
 
-For my first electronics project after a long time, I decided to build an __Music From Outher Space -__ __*Noise Toaster*__,  because of the great documentation and the book 'Make: Analog Synthesizers' by Ray Wilson.
+This is my first electronics project for a long time and I decided to build an __Music From Outher Space -__ __*Noise Toaster*__,  because of the great documentation and the book 'Make: Analog Synthesizers' by Ray Wilson.
 
 ## TODO
 
