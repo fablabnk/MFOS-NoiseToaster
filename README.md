@@ -12,7 +12,7 @@ This is my first electronics project for a long time and I decided to build an _
 
 ## TODO
 
-* [ ] Bill Of Materials
+* [X] Bill Of Materials
 * [ ] dokumentation of the case
 	* [ ] boxes py case for laser cutter
 	* [ ] alternative diy case
