@@ -17,6 +17,8 @@ This is my first electronics project for a long time and I decided to build an _
 	* [ ] boxes py case for laser cutter
 	* [ ] alternative diy case
 * [ ] dokumentation of the front panel
+	* [X] classic front panel design
+	* [ ] alternative front panel design
 * [ ] files for the pcb
 
 ## Usefull links and sources
