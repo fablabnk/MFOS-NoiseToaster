@@ -30,9 +30,8 @@ This is my first electronics project for a long time and I decided to build an _
 * [Noise Toaster in action - Video by Ray Wilson](https://www.youtube.com/watch?v=qHlyuIe3wuU)
 * [Make: Analog Synthesizers by Ray Wilson](https://learning.oreilly.com/library/view/make-analog-synthesizers/9781449356200/)
 
-
-
-
+---
+![CC-BY-NC-SA](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 
 
