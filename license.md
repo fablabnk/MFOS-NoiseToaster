@@ -2,7 +2,7 @@
 # License Declaration
 
 I didn't found any specific license Ray Wilson used for his projects, only that he published it under non-profit and only personal use. So I put all my files under the fillowing license, because I think this is the correct one.
-If I'm wrong, pleace write me and I will correct my mistake.
+If I'm wrong, please write me and I will correct my mistake.
 
 ---
 
