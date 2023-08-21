@@ -10,21 +10,16 @@ This repository is for the documentation of my journey to a full functional anal
 
 This is my first electronics project for a long time and I decided to build an __Music From Outher Space -__ __*Noise Toaster*__,  because of the great documentation and the book 'Make: Analog Synthesizers' by Ray Wilson.
 
-## TODO
-
-* [X] Bill Of Materials
-* [ ] dokumentation of the case
-	* [ ] classic case 
-	* [ ] alternative boxes py case for laser cutter
-* [ ] dokumentation of the front panel
-	* [X] classic front panel design
-	* [ ] alternative front panel design
-* [ ] create pcb files
-	* [X] draw schematics
-	* [ ] check correct wiring
-	* [ ] check components
-	* [ ] apply correct footprints
-	* [	] create gerber files
+## Project Structure
+.
+└── MFOS-NoiseToaster/
+    ├── 'front panel'/
+    │   ├── classic
+    │   └── alternative
+    ├── 'Noise Toaster PCB'/
+    ├── BoM.md
+    ├── README.md
+    └── TODO.md
 
 ## Usefull links and sources
 
