@@ -14,12 +14,17 @@ This is my first electronics project for a long time and I decided to build an _
 
 * [X] Bill Of Materials
 * [ ] dokumentation of the case
-	* [ ] boxes py case for laser cutter
-	* [ ] alternative diy case
+	* [ ] classic case 
+	* [ ] alternative boxes py case for laser cutter
 * [ ] dokumentation of the front panel
 	* [X] classic front panel design
 	* [ ] alternative front panel design
-* [ ] files for the pcb
+* [ ] create pcb files
+	* [X] draw schematics
+	* [ ] check correct wiring
+	* [ ] check components
+	* [ ] apply correct footprints
+	* [	] create gerber files
 
 ## Usefull links and sources
 
