@@ -1,0 +1,19 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 4cecf88e-2e4f-4bfb-91e9-293415e6ada7)
+
+  (paper "A4")
+
+  (title_block
+    (title "Attack Decay Generator")
+    (rev "0.5")
+    (company "http://musicfromouterspace.com/analogsynth_new/NOISETOASTER/NOISETOASTER.php")
+    (comment 1 "Licence: CC-BY-NC-SA")
+    (comment 2 "Original Design by Ray Wilson")
+    (comment 3 "Music From Outer Space LLC")
+  )
+
+  (lib_symbols
+  )
+
+)
