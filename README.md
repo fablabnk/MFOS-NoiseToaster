@@ -12,28 +12,51 @@ This is my first electronics project for a long time and I decided to build an _
 
 ## Project Structure
 .  
+│  
 └── MFOS-NoiseToaster/  
+&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;├── 'front panel'/  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;├── classic/  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'front panel template - classic.svg'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'inverted front panel template - classic.svg'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── alternative/  
+&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;├── 'Noise Toaster PCB'/  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'Noise Toaster PCB.kicad_pcb'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'Noise Toaster PCB.kicad_pro'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'Noise Toaster PCB.kicad_sch'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'aa.kicad_sch'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'adg.kicad_sch'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'areg.kicad_sch'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'lfo.kicad_sch'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'power supply.kicad_sch'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'vca.kicad_sch'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'vclpf.kicad_sch'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'vco.kicad_sch'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'vco_rswg.kicad_sch'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'wng.kicad_sch'  
+&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;├── BoM.md  
+&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;├── README.md  
+&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;└── TODO.md  
 
 ## Usefull links and sources
