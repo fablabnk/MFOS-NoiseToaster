@@ -41,7 +41,7 @@ This is my first electronics project for a long time and I decided to build an _
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'lfo.kicad_sch'  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
-&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'power supply.kicad_sch'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'ps.kicad_sch'  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'vca.kicad_sch'  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
