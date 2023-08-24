@@ -1037,21 +1037,21 @@
     (uuid fe22a358-9288-42bf-8722-cb1dd71fc55d)
   )
 
-  (global_label "B-" (shape input) (at 48.26 125.73 90) (fields_autoplaced)
+  (global_label "B-" (shape output) (at 48.26 125.73 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 180ab724-1c3c-429c-b30c-8e9922ab7509)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 48.26 119.9024 90)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "B-" (shape input) (at 236.22 45.72 90) (fields_autoplaced)
+  (global_label "B-" (shape output) (at 236.22 45.72 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 76ab85ea-f92d-4d78-84de-1d1362cdc989)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 236.22 39.8924 90)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "B+" (shape input) (at 241.3 114.3 0) (fields_autoplaced)
+  (global_label "B+" (shape output) (at 241.3 114.3 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid d6d0044f-05ae-48b4-932a-981fa0a20532)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 247.1276 114.3 0)
@@ -1065,7 +1065,7 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "B-" (shape input) (at 161.29 179.07 0) (fields_autoplaced)
+  (global_label "B-" (shape output) (at 161.29 179.07 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid f5ca7a21-21f0-4053-81cc-09e79070e7ee)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 167.1176 179.07 0)
@@ -1073,27 +1073,27 @@
     )
   )
 
-  (hierarchical_label "FO" (shape input) (at 170.18 100.33 180) (fields_autoplaced)
+  (hierarchical_label "FO" (shape bidirectional) (at 170.18 100.33 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 0717a082-d5f3-4635-ac11-4d0a959ebcb6)
   )
-  (hierarchical_label "SQR" (shape input) (at 30.48 45.72 180) (fields_autoplaced)
+  (hierarchical_label "SQR" (shape bidirectional) (at 30.48 45.72 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 45accdb9-573a-4dcd-9d68-3b7614ce8235)
   )
-  (hierarchical_label "ARG" (shape input) (at 31.75 186.69 180) (fields_autoplaced)
+  (hierarchical_label "ARG" (shape bidirectional) (at 31.75 186.69 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 73d42831-37b7-4b76-89ee-10602a40dc50)
   )
-  (hierarchical_label "WNS" (shape input) (at 30.48 72.39 180) (fields_autoplaced)
+  (hierarchical_label "WNS" (shape bidirectional) (at 30.48 72.39 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 88497d1f-b53a-47f2-8bef-a6da068a7987)
   )
-  (hierarchical_label "RMP" (shape input) (at 30.48 30.48 180) (fields_autoplaced)
+  (hierarchical_label "RMP" (shape bidirectional) (at 30.48 30.48 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 97e7ed5f-a35c-424a-b7e8-79b51e60ed22)
   )
-  (hierarchical_label "LFO" (shape input) (at 31.75 170.18 180) (fields_autoplaced)
+  (hierarchical_label "LFO" (shape bidirectional) (at 31.75 170.18 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid fbc32711-7d65-4ac2-9ff3-2651cfdb65a0)
   )
@@ -1168,9 +1168,6 @@
     (pin "1" (uuid a2e1b429-a9a9-40d6-b754-5a8d7f67d6ac))
     (instances
       (project "Noise Toaster PCB"
-        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/9c6b1f0b-dddb-43c5-83ba-4fcd1cf28662"
-          (reference "#PWR01") (unit 1)
-        )
         (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/a3e9deee-1b9d-4545-a3c9-71b211642b5b"
           (reference "#PWR04") (unit 1)
         )
@@ -1413,9 +1410,6 @@
     (pin "1" (uuid 5ae96a27-7373-4a05-b9cb-a792fd679d1b))
     (instances
       (project "Noise Toaster PCB"
-        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/9c6b1f0b-dddb-43c5-83ba-4fcd1cf28662"
-          (reference "#PWR01") (unit 1)
-        )
         (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/a3e9deee-1b9d-4545-a3c9-71b211642b5b"
           (reference "#PWR04") (unit 1)
         )
@@ -1642,9 +1636,6 @@
     (pin "1" (uuid 53f3ff92-3a44-401b-aa5f-cae7e85ab5ac))
     (instances
       (project "Noise Toaster PCB"
-        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/9c6b1f0b-dddb-43c5-83ba-4fcd1cf28662"
-          (reference "#PWR01") (unit 1)
-        )
         (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/a3e9deee-1b9d-4545-a3c9-71b211642b5b"
           (reference "#PWR04") (unit 1)
         )
@@ -1926,9 +1917,6 @@
     (pin "1" (uuid 493b82d2-fdf4-4420-b685-faa2548411f5))
     (instances
       (project "Noise Toaster PCB"
-        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/9c6b1f0b-dddb-43c5-83ba-4fcd1cf28662"
-          (reference "#PWR01") (unit 1)
-        )
         (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/a3e9deee-1b9d-4545-a3c9-71b211642b5b"
           (reference "#PWR04") (unit 1)
         )
@@ -2010,9 +1998,6 @@
     (pin "1" (uuid 67d76e06-b31e-4dd5-938b-b8bb5c27ff48))
     (instances
       (project "Noise Toaster PCB"
-        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/9c6b1f0b-dddb-43c5-83ba-4fcd1cf28662"
-          (reference "#PWR01") (unit 1)
-        )
         (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/a3e9deee-1b9d-4545-a3c9-71b211642b5b"
           (reference "#PWR04") (unit 1)
         )

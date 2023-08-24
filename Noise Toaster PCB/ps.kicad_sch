@@ -425,14 +425,14 @@
     (uuid d23ad1af-b2a9-4372-9ec6-99e2b868a905)
   )
 
-  (global_label "B-" (shape input) (at 160.02 177.8 270) (fields_autoplaced)
+  (global_label "B-" (shape output) (at 160.02 177.8 270) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 242c969f-57da-4f90-9319-38ad4d698f3f)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 160.02 183.6276 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "B-" (shape input) (at 224.79 137.16 270) (fields_autoplaced)
+  (global_label "B-" (shape output) (at 224.79 137.16 270) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 2589d169-9f69-47cd-aaf5-a519fa3ac505)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 224.79 142.9876 90)
@@ -460,14 +460,14 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "B+" (shape input) (at 59.69 25.4 90) (fields_autoplaced)
+  (global_label "B+" (shape output) (at 59.69 25.4 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 99c1eef4-b96a-4347-95d1-2fad0756f3fe)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 59.69 19.5724 90)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "B-" (shape input) (at 105.41 176.53 270) (fields_autoplaced)
+  (global_label "B-" (shape output) (at 105.41 176.53 270) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid f3cad3cd-536b-4dda-9f55-47c73bc02b4e)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 105.41 182.3576 90)
@@ -494,7 +494,7 @@
     (pin "2" (uuid f1dfc44c-605c-47ab-af87-010709a96404))
     (instances
       (project "Noise Toaster PCB"
-        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/9c6b1f0b-dddb-43c5-83ba-4fcd1cf28662"
+        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/8163954c-0389-42ef-b929-449d078595e3"
           (reference "PowerSwitch") (unit 1)
         )
       )
@@ -519,7 +519,7 @@
     (pin "1" (uuid 5ab8275c-219b-42a8-aeaa-e99afe491543))
     (instances
       (project "Noise Toaster PCB"
-        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/9c6b1f0b-dddb-43c5-83ba-4fcd1cf28662"
+        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/8163954c-0389-42ef-b929-449d078595e3"
           (reference "#PWR01") (unit 1)
         )
       )
@@ -545,7 +545,7 @@
     (pin "2" (uuid d04a1433-8a21-478e-b8c3-771618851149))
     (instances
       (project "Noise Toaster PCB"
-        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/9c6b1f0b-dddb-43c5-83ba-4fcd1cf28662"
+        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/8163954c-0389-42ef-b929-449d078595e3"
           (reference "C13") (unit 1)
         )
       )
@@ -571,7 +571,7 @@
     (pin "2" (uuid ef1d9694-f798-49b8-873a-7b9dfb614bf5))
     (instances
       (project "Noise Toaster PCB"
-        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/9c6b1f0b-dddb-43c5-83ba-4fcd1cf28662"
+        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/8163954c-0389-42ef-b929-449d078595e3"
           (reference "R42") (unit 1)
         )
       )
@@ -597,7 +597,7 @@
     (pin "2" (uuid ad3b7f45-3f8f-4273-946d-854a4f72d6e2))
     (instances
       (project "Noise Toaster PCB"
-        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/9c6b1f0b-dddb-43c5-83ba-4fcd1cf28662"
+        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/8163954c-0389-42ef-b929-449d078595e3"
           (reference "C14") (unit 1)
         )
       )
@@ -623,7 +623,7 @@
     (pin "2" (uuid 144ed827-4cfe-4265-b7de-31dcf7654e90))
     (instances
       (project "Noise Toaster PCB"
-        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/9c6b1f0b-dddb-43c5-83ba-4fcd1cf28662"
+        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/8163954c-0389-42ef-b929-449d078595e3"
           (reference "BT") (unit 1)
         )
       )
@@ -649,7 +649,7 @@
     (pin "2" (uuid 85943363-0a00-4d5f-80a7-1463a1fbddd8))
     (instances
       (project "Noise Toaster PCB"
-        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/9c6b1f0b-dddb-43c5-83ba-4fcd1cf28662"
+        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/8163954c-0389-42ef-b929-449d078595e3"
           (reference "C23") (unit 1)
         )
       )
@@ -675,7 +675,7 @@
     (pin "2" (uuid 5d5a49d3-f0ac-41ca-a6b2-309f06e98f94))
     (instances
       (project "Noise Toaster PCB"
-        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/9c6b1f0b-dddb-43c5-83ba-4fcd1cf28662"
+        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/8163954c-0389-42ef-b929-449d078595e3"
           (reference "C15") (unit 1)
         )
       )
@@ -701,7 +701,7 @@
     (pin "2" (uuid 5d8eccba-341e-454a-967d-f1c2b5d57bb2))
     (instances
       (project "Noise Toaster PCB"
-        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/9c6b1f0b-dddb-43c5-83ba-4fcd1cf28662"
+        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/8163954c-0389-42ef-b929-449d078595e3"
           (reference "R37") (unit 1)
         )
       )
@@ -726,7 +726,7 @@
     (pin "1" (uuid cf75c27e-8d4a-4561-b4c0-7e2c497e57fb))
     (instances
       (project "Noise Toaster PCB"
-        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/9c6b1f0b-dddb-43c5-83ba-4fcd1cf28662"
+        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/8163954c-0389-42ef-b929-449d078595e3"
           (reference "#PWR02") (unit 1)
         )
       )
