@@ -423,9 +423,12 @@
     )
   )
 
-  (hierarchical_label "WNS" (shape bidirectional) (at 88.9 165.1 270) (fields_autoplaced)
+  (hierarchical_label "WNS" (shape bidirectional) (at 88.9 165.1 270)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 419acc46-b101-4393-b73d-2afb2e7e0e9c)
+    (property "Bezeichnung" "X4" (at 86.36 165.1 0)
+      (effects (font (size 1.27 1.27) italic) (justify right))
+    )
   )
 
   (symbol (lib_id "Device:R") (at 106.68 62.23 0) (unit 1)
