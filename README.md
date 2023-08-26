@@ -71,6 +71,3 @@ This is my first electronics project for a long time and I decided to build an _
 ---
 ![CC-BY-NC-SA](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
-
-
-
