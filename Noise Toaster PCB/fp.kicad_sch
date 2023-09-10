@@ -1515,7 +1515,7 @@
   )
 
   (symbol (lib_id "Switch:SW_SPST") (at 52.07 31.75 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid 053b1311-4755-4be8-96cc-ae4d8f68f332)
     (property "Reference" "S1" (at 50.8 29.21 0)
       (effects (font (size 1.27 1.27)))
@@ -1556,7 +1556,7 @@
   )
 
   (symbol (lib_id "Device:D") (at 57.15 161.29 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid 0544775e-0b74-46ce-9830-8a8fb3bc0dd8)
     (property "Reference" "D2" (at 62.23 161.29 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1597,7 +1597,7 @@
   )
 
   (symbol (lib_id "Switch:SW_SPDT") (at 41.91 152.4 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid 16fa170e-8ce0-4a36-b7e7-e86e06e32a76)
     (property "Reference" "SW2" (at 41.91 144.78 0)
       (effects (font (size 1.27 1.27)))
@@ -1636,7 +1636,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 52.07 41.91 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid 1883dd29-ea3a-4ed2-97e6-ae45436e458b)
     (property "Reference" "C1" (at 52.07 35.56 90)
       (effects (font (size 1.27 1.27)))
@@ -1671,7 +1671,7 @@
   )
 
   (symbol (lib_id "Switch:SW_SPDT_MSM") (at 247.65 26.67 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid 1c323610-5d5f-4aee-80af-45dd9023b6af)
     (property "Reference" "S3" (at 247.65 21.59 0)
       (effects (font (size 1.27 1.27)))
@@ -1704,7 +1704,7 @@
   )
 
   (symbol (lib_id "Switch:SW_SPST") (at 143.51 175.26 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid 221bd8f8-bca0-4363-9d0a-f98a2c0e92c3)
     (property "Reference" "PowerSwitch" (at 138.43 168.91 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1767,7 +1767,7 @@
   )
 
   (symbol (lib_id "Switch:SW_SPST") (at 247.65 36.83 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid 29273e93-5ae2-45e5-8c9a-b9ac34108e84)
     (property "Reference" "S4" (at 247.65 33.02 0)
       (effects (font (size 1.27 1.27)))
@@ -1799,7 +1799,7 @@
   )
 
   (symbol (lib_id "Switch:SW_SPDT_MSM") (at 237.49 58.42 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid 394f5920-8db2-41de-a641-9c16fedcac76)
     (property "Reference" "S6" (at 222.25 53.213 90)
       (effects (font (size 1.27 1.27)))
@@ -1838,7 +1838,7 @@
   )
 
   (symbol (lib_id "Device:R_Potentiometer") (at 57.15 171.45 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid 3cdd2928-2d0d-4179-a978-73f2f052765c)
     (property "Reference" "R51" (at 53.34 166.37 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1880,7 +1880,7 @@
   )
 
   (symbol (lib_id "Device:Battery") (at 124.46 124.46 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid 42899654-8878-4f6d-a6aa-e84611e0d3f9)
     (property "Reference" "BT" (at 128.27 118.11 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1912,7 +1912,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 35.56 41.91 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid 466975ef-aacb-4a53-bd0e-25de61d07a68)
     (property "Reference" "LED1" (at 35.56 35.56 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1941,7 +1941,7 @@
   )
 
   (symbol (lib_id "Switch:SW_SPST") (at 60.96 116.84 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid 60be4919-ec1a-4c5b-ac36-b65fc6ac58b1)
     (property "Reference" "S1" (at 58.42 114.3 0)
       (effects (font (size 1.27 1.27)))
@@ -1979,7 +1979,7 @@
   )
 
   (symbol (lib_id "Connector_Audio:AudioJack2_Ground") (at 260.35 135.89 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid 644b9d6c-ee27-44f8-a53f-ee1ee1eb1cc8)
     (property "Reference" "J1" (at 266.7 133.35 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2012,7 +2012,7 @@
   )
 
   (symbol (lib_id "Device:R_Potentiometer") (at 237.49 69.85 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid 6aa43de1-bcfb-4200-b62a-290d2c50ee37)
     (property "Reference" "R1" (at 220.98 62.23 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2051,7 +2051,7 @@
   )
 
   (symbol (lib_id "Device:R_Potentiometer") (at 39.37 25.4 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid 6abf4075-6421-47d3-b247-250bb015cb52)
     (property "Reference" "R20" (at 48.26 20.32 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2090,7 +2090,7 @@
   )
 
   (symbol (lib_id "Device:R_Potentiometer") (at 72.39 69.85 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid 6d5aebbd-abe9-460f-b5d0-598f26faaace)
     (property "Reference" "R13" (at 68.58 63.5 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2126,7 +2126,7 @@
   )
 
   (symbol (lib_id "Device:D") (at 78.74 161.29 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid 80fa7d51-5883-4b51-983c-20eddc691251)
     (property "Reference" "D1" (at 81.28 161.29 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2167,7 +2167,7 @@
   )
 
   (symbol (lib_id "Device:R_Potentiometer") (at 251.46 59.69 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid 89006a85-fde5-424b-8244-772c86361074)
     (property "Reference" "R1" (at 245.11 48.26 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2206,7 +2206,7 @@
   )
 
   (symbol (lib_id "Device:Speaker") (at 260.35 149.86 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid 9886d1a9-fab5-47b4-979d-62ee9a5a6920)
     (property "Reference" "LS1" (at 266.7 148.59 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2272,7 +2272,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 237.49 80.01 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid b4324520-ee1e-446b-b6b3-7583454ad546)
     (property "Reference" "R43" (at 229.87 78.74 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2304,7 +2304,7 @@
   )
 
   (symbol (lib_id "Device:R_Potentiometer") (at 45.72 90.17 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid b7722dd1-4feb-4d4c-8a5e-163f48370f58)
     (property "Reference" "R20" (at 43.18 83.82 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2343,7 +2343,7 @@
   )
 
   (symbol (lib_id "Switch:SW_SPST") (at 132.08 113.03 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid b7788d33-54c7-408c-a6fe-608ece1899ed)
     (property "Reference" "PowerSwitch" (at 127 107.95 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2375,7 +2375,7 @@
   )
 
   (symbol (lib_id "Switch:SW_SPST") (at 67.31 90.17 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid ccfe6999-a358-48f6-a09c-36fdcaca433e)
     (property "Reference" "S1" (at 66.04 85.09 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2410,12 +2410,12 @@
   )
 
   (symbol (lib_id "Switch:SW_SPST") (at 41.91 139.7 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid d0fcfe1b-3406-459d-b47f-a3231cbbb818)
-    (property "Reference" "SW1" (at 41.91 135.89 0)
+    (property "Reference" "SW1" (at 41.91 133.35 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Manual Gate" (at 52.07 135.89 0)
+    (property "Value" "Manual Gate" (at 45.72 135.89 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 41.91 139.7 0)
@@ -2445,7 +2445,7 @@
   )
 
   (symbol (lib_id "Device:R_Potentiometer") (at 266.7 59.69 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid d3f1da3f-83bb-49c6-89f8-c6be9e0adffc)
     (property "Reference" "R1" (at 260.35 48.26 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2484,7 +2484,7 @@
   )
 
   (symbol (lib_id "Device:R_Potentiometer") (at 44.45 69.85 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid e495770f-4ab8-439c-ab98-87e0fe53517a)
     (property "Reference" "R1" (at 45.72 63.5 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2554,7 +2554,7 @@
   )
 
   (symbol (lib_id "Device:R_Potentiometer") (at 246.38 118.11 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid edc79e14-8f51-422a-ad42-c51364acff2c)
     (property "Reference" "R20" (at 246.38 111.76 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2596,7 +2596,7 @@
   )
 
   (symbol (lib_id "Switch:SW_SPDT") (at 73.66 43.18 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid ee0c3554-6bb3-4758-8534-a79be87b66b4)
     (property "Reference" "SW2" (at 71.12 38.1 0)
       (effects (font (size 1.27 1.27)))
@@ -2638,7 +2638,7 @@
   )
 
   (symbol (lib_id "Device:R_Potentiometer") (at 78.74 171.45 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board no) (dnp no)
     (uuid fce631c0-da7d-4bb0-8240-e6f41017e412)
     (property "Reference" "R53" (at 72.39 166.37 0)
       (effects (font (size 1.27 1.27)) (justify right))
