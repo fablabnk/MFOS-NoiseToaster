@@ -5,10 +5,10 @@
 
 ## Motivation
 
-First project to get back to electronic and learn something new along the way.
-This repository is for the documentation of my journey to a full functional analog synthesizer and will probably help other people too.
+My first project to get back to electronics and learn something new along the way.
+This repository is for the documentation of my journey to a fully functional analog synthesizer and may help other people to build one too.
 
-This is my first electronics project for a long time and I decided to build an __Music From Outher Space -__ __*Noise Toaster*__,  because of the great documentation and the book 'Make: Analog Synthesizers' by Ray Wilson.
+This is my first electronics project for a long time and I decided to build the __Music From Outher Space -__ __*Noise Toaster*__,  because of the great documentation and the book 'Make: Analog Synthesizers' by Ray Wilson.
 
 ## Project Structure
 .  
@@ -33,25 +33,25 @@ This is my first electronics project for a long time and I decided to build an _
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'Noise Toaster PCB.kicad_sch'  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
-&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'aa.kicad_sch'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'aa.kicad_sch'&ensp;&ensp;&ensp;&ensp;=>&ensp;&ensp;&ensp;&ensp;Audo Amplifier    
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
-&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'adg.kicad_sch'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'areg.kicad_sch'&ensp;&ensp;&ensp;&ensp;=>&ensp;&ensp;Attack Release Envelope Generator  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
-&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'areg.kicad_sch'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'lfo.kicad_sch'&ensp;&ensp;&ensp;&ensp;=>&ensp;&ensp;&ensp;&ensp;Low Frequency Oscillator  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
-&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'lfo.kicad_sch'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'ps.kicad_sch'&ensp;&ensp;&ensp;&ensp;=>&ensp;&ensp;&ensp;&ensp;Power Supply  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
-&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'ps.kicad_sch'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'vca.kicad_sch'&ensp;&ensp;&ensp;&ensp;=>&ensp;&ensp;&ensp;Voltage Controlled Amplifier  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
-&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'vca.kicad_sch'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'vclpf.kicad_sch'&ensp;&ensp;&ensp;=>&ensp;&ensp;&ensp;Voltage Controlled Low Pass Filter  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
-&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'vclpf.kicad_sch'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'vco.kicad_sch'&ensp;&ensp;&ensp;&ensp;=>&ensp;&ensp;&ensp;VCO - CV Mixer and Expo Converter  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
-&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'vco.kicad_sch'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'vco_rswg.kicad_sch'&ensp;=>&ensp;VCO - Ramp/Square Wave Generator   
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
-&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'vco_rswg.kicad_sch'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'wng.kicad_sch'&ensp;&ensp;&ensp;&ensp;=>&ensp;&ensp;&ensp;White Noise Generator  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│  
-&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'wng.kicad_sch'  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'fp.kicad_sch'&ensp;&ensp;&ensp;&ensp;&ensp;=>&ensp;&ensp;&ensp;&ensp;Front Panel  
 &ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;├── BoM.md  
 &ensp;&ensp;&ensp;&ensp;│  
@@ -59,7 +59,7 @@ This is my first electronics project for a long time and I decided to build an _
 &ensp;&ensp;&ensp;&ensp;│  
 &ensp;&ensp;&ensp;&ensp;└── TODO.md  
 
-## Usefull links and sources
+## Usefull links and resources
 
 * [Musik From Outer Space](http://musicfromouterspace.com/)
 * [MFOS - Noise Toaster - Dokumentation](http://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&PROJARG=NOISETOASTER/NOISETOASTER.php&VPW=1493&VPH=725)
