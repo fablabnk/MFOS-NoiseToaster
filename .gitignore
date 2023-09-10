@@ -37,8 +37,6 @@ fp-info-cache
 ### KiCad Patch ###
 rescue-backup/
 
-/*-backups
-
 *.tsv
 bom/
 
