@@ -9,8 +9,8 @@
 	* [ ] alternative front panel design
 * [ ] create pcb files
 	* [X] draw schematics
-	* [ ] check correct wiring
-	* [ ] check components
+	* [X] check correct wiring
+	* [X] check components
 	* [ ] apply correct footprints
 	* [	] create gerber files
 
