@@ -11,6 +11,6 @@
 	* [X] draw schematics
 	* [X] check correct wiring
 	* [X] check components
-	* [ ] apply correct footprints
+	* [X] apply correct footprints
 	* [	] create gerber files
 
