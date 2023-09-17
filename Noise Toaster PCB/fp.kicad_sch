@@ -7,10 +7,10 @@
   (title_block
     (title "Front Panel")
     (rev "0.5")
-    (company "http://musicfromouterspace.com/analogsynth_new/NOISETOASTER/NOISETOASTER.php")
+    (company "Music From Outer Space LLC")
     (comment 1 "Licence: CC-BY-NC-SA")
     (comment 2 "Original Design by Ray Wilson")
-    (comment 3 "Music From Outer Space LLC")
+    (comment 3 "http://musicfromouterspace.com/analogsynth_new/NOISETOASTER/NOISETOASTER.php")
   )
 
   (lib_symbols

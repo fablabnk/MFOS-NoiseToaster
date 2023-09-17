@@ -7,10 +7,10 @@
   (title_block
     (title "Audio Amplifier")
     (rev "0.5")
-    (company "http://musicfromouterspace.com/analogsynth_new/NOISETOASTER/NOISETOASTER.php")
+    (company "Music From Outer Space LLC")
     (comment 1 "Licence: CC-BY-NC-SA")
     (comment 2 "Original Design by Ray Wilson")
-    (comment 3 "Music From Outer Space LLC")
+    (comment 3 "http://musicfromouterspace.com/analogsynth_new/NOISETOASTER/NOISETOASTER.php")
   )
 
   (lib_symbols
@@ -963,7 +963,7 @@
     (property "Value" "1 uF" (at 138.43 39.37 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Capacitor_THT:CP_Axial_L20.0mm_D10.0mm_P26.00mm_Horizontal" (at 142.24 43.4848 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" (at 142.24 43.4848 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 138.43 44.45 0)

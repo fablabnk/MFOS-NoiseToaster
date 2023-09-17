@@ -7,10 +7,10 @@
   (title_block
     (title "Power Supply")
     (rev "0.5")
-    (company "http://musicfromouterspace.com/analogsynth_new/NOISETOASTER/NOISETOASTER.php")
+    (company "Music From Outer Space LLC")
     (comment 1 "Licence: CC-BY-NC-SA")
     (comment 2 "Original Design by Ray Wilson")
-    (comment 3 "Music From Outer Space LLC")
+    (comment 3 "http://musicfromouterspace.com/analogsynth_new/NOISETOASTER/NOISETOASTER.php")
   )
 
   (lib_symbols
@@ -198,6 +198,9 @@
     )
   )
 
+  (junction (at 120.65 104.14) (diameter 0) (color 0 0 0 0)
+    (uuid 046b86ea-3989-4b99-a502-fc99bf208b59)
+  )
   (junction (at 59.69 139.7) (diameter 0) (color 0 0 0 0)
     (uuid 0d6a3b3b-e75c-446f-bddf-a84d9a2725e7)
   )
@@ -231,6 +234,10 @@
   (wire (pts (xy 59.69 105.41) (xy 59.69 139.7))
     (stroke (width 0) (type default))
     (uuid 0b74622f-233f-4926-9ed0-4ede5e63b2a4)
+  )
+  (wire (pts (xy 120.65 104.14) (xy 127 104.14))
+    (stroke (width 0) (type default))
+    (uuid 2617eaf9-08aa-4e82-b94c-1f049da674d7)
   )
   (wire (pts (xy 46.99 127) (xy 46.99 139.7))
     (stroke (width 0) (type default))
@@ -572,6 +579,40 @@
       (project "Noise Toaster PCB"
         (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/8163954c-0389-42ef-b929-449d078595e3"
           (reference "R42") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Connector:Conn_01x01_Pin") (at 132.08 104.14 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid a0aef74f-038c-48e5-a71d-74c74812e302)
+    (property "Reference" "X4" (at 130.81 107.95 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "~" (at 131.445 106.68 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical" (at 132.08 104.14 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 132.08 104.14 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid ce2a0b49-e7e5-4f0d-81fc-67eb39622cbd))
+    (instances
+      (project "Noise Toaster PCB"
+        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/818b46cb-815d-4132-b52d-9731333b7f1f"
+          (reference "X4") (unit 1)
+        )
+        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/d0369b76-3398-4137-86ba-22490a5aca99"
+          (reference "X22") (unit 1)
+        )
+        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/0647ade8-e724-4924-aa52-6cbb42374298"
+          (reference "X22") (unit 1)
+        )
+        (path "/7be3f398-d902-4566-9ee4-0bff072cd47e/8163954c-0389-42ef-b929-449d078595e3"
+          (reference "GND1") (unit 1)
         )
       )
     )
