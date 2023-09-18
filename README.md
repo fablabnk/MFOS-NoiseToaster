@@ -21,6 +21,8 @@ This is my first electronics project for a long time and I decided to build the 
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'inverted front panel template - classic.svg'  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── alternative/  
 &ensp;&ensp;&ensp;&ensp;├── 'Noise Toaster PCB'/   
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'Gerber Files'/  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── *.gbr   
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'Noise Toaster PCB.kicad_pcb'  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'Noise Toaster PCB.kicad_pro'   
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'Noise Toaster PCB.kicad_sch'   
