@@ -48,3 +48,6 @@ out/
 # Sam Zeter original PCB files
 'Sam Zeters - Noise Toaster PCB'
 Sam Zeters - Noise Toaster PCB/*
+
+# zipped gerber files
+.zip
