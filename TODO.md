@@ -7,10 +7,10 @@
 * [ ] dokumentation of the front panel
 	* [X] classic front panel design
 	* [ ] alternative front panel design
-* [ ] create pcb files
+* [X] create pcb files
 	* [X] draw schematics
 	* [X] check correct wiring
 	* [X] check components
 	* [X] apply correct footprints
-	* [	] create gerber files
+	* [X] create gerber files
 
