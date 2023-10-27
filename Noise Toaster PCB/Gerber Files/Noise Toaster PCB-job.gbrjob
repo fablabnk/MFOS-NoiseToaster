@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "7.0.8"
     },
-    "CreationDate": "2023-10-12T18:53:29+02:00"
+    "CreationDate": "2023-10-27T22:46:13+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "Noise Toaster PCB",
       "GUID": "4e6f6973-6520-4546-9f61-737465722050",
-      "Revision": "0.5"
+      "Revision": "0.6"
     },
     "Size": {
       "X": 132.28,
@@ -24,8 +24,8 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.2,
-      "PadToTrack": 0.2,
+      "PadToPad": 0.0,
+      "PadToTrack": 0.0,
       "TrackToTrack": 0.2,
       "MinLineWidth": 0.5,
       "TrackToRegion": 0.5,

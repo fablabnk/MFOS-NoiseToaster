@@ -6,7 +6,7 @@
 
   (title_block
     (title "White Noise Generator")
-    (rev "0.5")
+    (rev "0.6")
     (company "Music From Outer Space LLC")
     (comment 1 "Licence: CC-BY-NC-SA")
     (comment 2 "Original Design by Ray Wilson")
@@ -471,10 +471,10 @@
     (property "Reference" "X4" (at 63.5 124.46 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "~" (at 64.135 124.46 0)
+    (property "Value" "WNS" (at 59.69 127 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical" (at 63.5 127 0)
+    (property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x01_P2.00mm_Vertical" (at 63.5 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 63.5 127 0)
