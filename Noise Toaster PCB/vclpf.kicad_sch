@@ -6,11 +6,13 @@
 
   (title_block
     (title "Voltage Controlled Low Pass Filter")
-    (rev "0.6")
+    (date "2023-10-29")
+    (rev "0.6.1")
     (company "Music From Outer Space LLC")
     (comment 1 "Licence: CC-BY-NC-SA")
     (comment 2 "Original Design by Ray Wilson")
     (comment 3 "http://musicfromouterspace.com/analogsynth_new/NOISETOASTER/NOISETOASTER.php")
+    (comment 4 "Created: 2023-06-12")
   )
 
   (lib_symbols
