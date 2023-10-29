@@ -3,12 +3,21 @@
 
 > ##### Forked from *[Sam Zeter](https://github.com/samzeter/noise-toaster)*
 
+## Status
+
+Work in progress -> Revision 0.6.1
+
 ## Motivation
 
 My first project to get back to electronics and learn something new along the way.
 This repository is for the documentation of my journey to a fully functional analog synthesizer and may help other people to build one too.
 
 This is my first electronics project for a long time and I decided to build the __Music From Outher Space -__ __*Noise Toaster*__,  because of the great documentation and the book 'Make: Analog Synthesizers' by Ray Wilson.
+
+## How to use this repository
+
+This repository contains all files for building the Noise Toaster and the PCB of the synth.
+If you want to make your own PCB, only compress all the files in the 'Noise Toaster PCB/Gerber Files' directory to a .zip file and upload it the PCB manufacturer of your trust.
 
 ## Project Structure
 .  
