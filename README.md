@@ -16,8 +16,7 @@ This is my first electronics project for a long time and I decided to build the 
 
 ## How to use this repository
 
-This repository contains all files for building the Noise Toaster and the PCB of the synth.
-If you want to make your own PCB, only compress all the files in the 'Noise Toaster PCB/Gerber Files' directory to a .zip file and upload it the PCB manufacturer of your trust.
+This repository contains all the files necessary for building the Noise Toaster, including the synth's PCB. If you intend to create your own PCB, simply compress all the files located in the 'Noise Toaster PCB/Gerber Files' directory into a .zip file and upload it to the PCB manufacturer of your choice.
 
 ## Project Structure
 .  
