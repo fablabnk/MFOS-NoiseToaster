@@ -52,3 +52,8 @@ Sam Zeters - Noise Toaster PCB/*
 # zipped gerber files
 Noise Toaster PCB/Gerber Files/*.zip
 
+# Design Inspiration
+/Design
+
+### FreeCAD ###
+*.FCBak
