@@ -2,7 +2,7 @@
 
 * [X] Bill Of Materials
 * [ ] dokumentation of the case
-	* [ ] classic case 
+	* [X] classic case 
 	* [ ] alternative boxes py case for laser cutter
 * [ ] dokumentation of the front panel
 	* [X] classic front panel design
