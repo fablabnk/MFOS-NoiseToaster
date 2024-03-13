@@ -59,6 +59,8 @@ This repository contains all the files necessary for building the Noise Toaster,
 * [Noise Toaster in action - Video by Ray Wilson](https://www.youtube.com/watch?v=qHlyuIe3wuU)
 * [Make: Analog Synthesizers by Ray Wilson](https://learning.oreilly.com/library/view/make-analog-synthesizers/9781449356200/)
 
+[TODO.md]
+
 ---
 ![CC-BY-NC-SA](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
