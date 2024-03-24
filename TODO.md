@@ -13,4 +13,4 @@
 	* [X] check components
 	* [X] apply correct footprints
 	* [X] create gerber files
-* [ ] refactor the whole project o_O
+* [X] refactor the whole project o_O
