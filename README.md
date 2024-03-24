@@ -28,7 +28,7 @@ This repository contains all the files necessary for building the Noise Toaster,
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;├── __'CAD/'__  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── '.FCstd' -> FreeCAD files for the build    
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── __'front panel/'__  
-&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;└── KiCAD files for front panel PCB => .zip Geber filse for manufacturer   
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;└── KiCAD files for front panel PCB => .zip Geber files for manufacturer   
 &ensp;&ensp;&ensp;&ensp;├── __'PCB/'__   
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── __'Gerber Files/'__ => .zip this directory for upload to the manufacturer  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── *.gbr   
