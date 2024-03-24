@@ -16,30 +16,34 @@ This is my first electronics project for a long time and I decided to build the 
 
 ## How to use this repository
 
-This repository contains all the files necessary for building the Noise Toaster, including the synth's PCB. If you intend to create your own PCB, simply compress all the files located in the 'Noise Toaster PCB/Gerber Files' directory into a .zip file and upload it to the PCB manufacturer of your choice.
+This repository contains all the files necessary for building the Noise Toaster, including the synth's PCB.  
+If you intend to create your own PCB, simply compress all the files located in the 'PCB/Gerber Files' directory into a .zip file and upload it to the PCB manufacturer of your choice.   
+In the directories 'classic design' and 'alternative design' (yet to come!) are all files to build the case of the Noise Toaster.    
+For the front panels, I also created PCB designs, which you can upload to a manifacturer. Furthermore, there are CAD files and technical drawings (yet to come!) in the folders.   
+The 'src' folder contains additional files which might be helpful.
 
 ## Project Structure
 .  
 │  
 └── MFOS-NoiseToaster/  
 &ensp;&ensp;&ensp;&ensp;│  
-&ensp;&ensp;&ensp;&ensp;├── __'src/'__ => additional files and images that might be helpful for your own build   
-&ensp;&ensp;&ensp;&ensp;├── __'classic design/'__ => all files to build the classic Noise Toaster case   
+&ensp;&ensp;&ensp;&ensp;├── __'src/'__ &rarr; additional files and images that might be helpful for your own build   
+&ensp;&ensp;&ensp;&ensp;├── __'classic design/'__ &rarr; all files to build the classic Noise Toaster case   
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;├── __'CAD/'__  
-&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── '.FCstd' -> FreeCAD files for the build    
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── '.FCstd' &rarr; FreeCAD files for the build    
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── __'front panel/'__  
-&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;└── KiCAD files for front panel PCB => .zip Geber files for manufacturer   
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;└── KiCAD files for front panel PCB &rarr; .zip this Geber files for the manufacturer   
 &ensp;&ensp;&ensp;&ensp;├── __'PCB/'__   
-&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── __'Gerber Files/'__ => .zip this directory for upload to the manufacturer  
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── __'Gerber Files/'__ &rarr; .zip this directory for upload to the manufacturer  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── *.gbr   
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'Noise Toaster PCB.kicad_pcb'  
-&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── ... => all files for the circuit diagram    
+&ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── ... &rarr; all files for the circuit diagram    
 &ensp;&ensp;&ensp;&ensp;├── __'Bill of Material/'__   
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'BoM checklist.md'  
 &ensp;&ensp;&ensp;&ensp;│&ensp;&ensp;&ensp;&ensp;└── 'interactive BoM.html'    
 &ensp;&ensp;&ensp;&ensp;├── README.md  
 &ensp;&ensp;&ensp;&ensp;└── TODO.md  
-&ensp;&ensp;&ensp;&ensp;└── licence.md => CC-BY-NC-SA  
+&ensp;&ensp;&ensp;&ensp;└── licence.md &rarr; CC-BY-NC-SA  
 
 ## Usefull links and resources
 
